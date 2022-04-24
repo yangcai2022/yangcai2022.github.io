@@ -1,0 +1,25 @@
+# jemdoc: menu{MENU}{course.html}
+= Selected Courses
+
+== EE Courses
+
+- Stochastic Network Optimization (EE 649)
+- Stochastic Systems and Reinforcement Learning (EE 556)
+- Optimization for the Information and Data Sciences (EE 588)
+- Statistics and Data Analysis(EE 517)
+- Random Processes (EE 562)
+
+# - Probability (EE 503)
+# - Linear Algebra (EE 510)
+
+== CS Courses
+
+- Analysis of Algorithms (CSCI 570)
+- Machine Learning (CSCI 567)  
+
+== ISE Courses
+
+- Foundations of Optimization (ISE 630)
+
+
+

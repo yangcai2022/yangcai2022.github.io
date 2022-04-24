@@ -1,0 +1,46 @@
+# jemdoc: menu{MENU}{index.html}
+= Yang Cai
+
+~~~
+{}{img_left}{cai.png}{alt text}{244.8px}{326.4px}{}
+Yang Cai \n
+\n
+Ph.D. Candidate \n
+\n
+[https://minghsiehece.usc.edu/ Department of Electrical and Computer Engineering] \n
+[https://www.usc.edu/ University of Southern California] \n
+\n
+Email: yangcai \[AT\] usc \[dot\] edu \n
+Web: [https://yangcai2022.github.io/ https:\/\/yangcai2022.github.io/]
+~~~
+
+== Welcome
+
+I am a Ph.D. candidate in the Department of Electrical Engineering at University of Southern California, affiliated with the
+[https://wides.usc.edu/
+Wireless Devices and Systems (WiDeS) Group], under the supervision of Professor
+[https://wides.usc.edu/founder.html
+Andreas F. Molisch].
+Prior to that, I received my M.S. and B.E. degrees from the
+[https://www.ee.tsinghua.edu.cn/en/
+Department of Electronic Engineering],
+[https://www.tsinghua.edu.cn/en/
+Tsinghua University] in 2018 and 2015, respectively. My advisor was Professor
+[http://oa.ee.tsinghua.edu.cn/~shenyuan/
+Yuan Shen].
+
+== News
+
+- \[04-22-2022\] Our paper ``Compute- and data-intensive networks: The key to the Metaverse'' is accepted by /Proc. IEEE Int. Conf. 6G Netw. (6GNet)/, 2022
+[https://arxiv.org/abs/2204.02001 \[arXiv\]]
+
+- \[04-19-2022\] We submitted a paper ``Decentralized control of distributed cloud networks with generalized network flows'' to /IEEE Trans. Commun./
+[https://arxiv.org/abs/2204.09030 \[arXiv\]]
+
+- \[06-24-2021\] I gave two presentations on /IEEE ICC 2021/.
+# to introduce our recent work on high-performance dynamic network control
+
+- \[12-07-2020\] I gave a presentation on /IEEE GlobeCom 2020/.
+# , to introduce our recent work on MEC network control
+
+

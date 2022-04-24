@@ -1,0 +1,53 @@
+# jemdoc: menu{MENU}{publication.html}
+= Publications
+
+Please refer to my
+[https://scholar.google.com/citations?hl=en&user=i25mmp8AAAAJ Google Scholar]
+page for the full list of my publications.
+
+== Under Review
+
+- Decentralized control of distributed cloud networks with generalized network flows [https://arxiv.org/abs/2204.09030 \[arXiv\]] \n
+Y. Cai, J. Llorca, A. M. Tulino, and A. F. Molisch, submitted to /IEEE Trans. Commun./.
+
+- Ultra-reliable distributed cloud network control with end-to-end latency constraints \n
+Y. Cai, J. Llorca, A. M. Tulino, and A. F. Molisch, submitted to /IEEE\/ACM Trans. Netw./.
+
+== Book Chapters
+
+- Cooperative Localization in Wireless Networks \n
+Y. Wang, Y. Cai, and Y. Shen, in /Positioning and Navigation in Complex Environments/, pp. 232-273, IGI Global, 2018.
+
+== Journal Papers
+
+- [https://ieeexplore.ieee.org/abstract/document/8636259
+An integrated localization and control framework for multi-agent formation] \n
+Y. Cai and Y. Shen, /IEEE Trans. Signal Process./, vol. 67, no. 7, pp. 1941-1956, Apr. 2019.
+
+== Conference Proceedings
+
+- Compute- and data-intensive networks: The key to the Metaverse [https://arxiv.org/abs/2204.02001 \[arXiv\]] \n
+Y. Cai, J. Llorca, A. M. Tulino, and A. F. Molisch, in /Proc. IEEE Int. Conf. 6G Netw. (6GNet)/, Paris, France, Jul. 2022, pp. 1-8.
+
+- [https://ieeexplore.ieee.org/abstract/document/9500780
+Optimal multicast service chain control: Packet processing, routing, and duplication] [https://wides.usc.edu/Updated_pdf/cai2021multicast.pdf \[pdf\]] \n
+Y. Cai, J. Llorca, A. M. Tulino, and A. F. Molisch, in /Proc. IEEE Int. Conf. Commun./, Montreal, Canada, Jun 2021, pp. 1-7.
+
+- [https://ieeexplore.ieee.org/abstract/document/9500573
+Optimal cloud network control with strict latency constraints] [https://wides.usc.edu/Updated_pdf/cai2021delay.pdf \[pdf\]] \n
+Y. Cai, J. Llorca, A. M. Tulino, and A. F. Molisch, in /Proc. IEEE Int. Conf. Commun./, Montreal, Canada, Jun 2021, pp. 1-6.
+
+- [https://ieeexplore.ieee.org/abstract/document/9322331
+Mobile edge computing network control: Tradeoff between delay and cost] [https://wides.usc.edu/Updated_pdf/cai2020mobile.pdf \[pdf\]] \n
+Y. Cai, J. Llorca, A. M. Tulino, and A. F. Molisch, in /Proc. IEEE Global Commun. Conf./, Taipei, Taiwan, Dec 2020, pp. 1-6.
+
+- [https://ieeexplore.ieee.org/abstract/document/9013390
+On the multi-activation oriented design of D2D-aided caching networks] [https://wides.usc.edu/Updated_pdf/cai2019multilink.pdf \[pdf\]] \n
+Y. Cai and A. F. Molisch, in /Proc. IEEE Global Commun. Conf./, Waikoloa, HI, USA, Dec 2019, pp. 1-6.
+
+- [https://ieeexplore.ieee.org/abstract/document/8422184
+Integrated localization and control for accurate multi-agent formation] \n
+Y. Cai and Y. Shen, in /Proc. IEEE Int. Conf. Commun./, Kansas City, MO, USA, May 2018, pp. 1-6.
+
+
+
