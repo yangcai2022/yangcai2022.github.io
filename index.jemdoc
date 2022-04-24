@@ -1,0 +1,32 @@
+# jemdoc: menu{MENU}{index.html}
+= Yang Cai
+
+~~~
+{}{img_left}{cai.jpeg}{alt text}{244.8px}{326.4px}{}
+Yang Cai \n
+Ph.D. Candidate \n 
+[https://minghsiehece.usc.edu/ Department of Electrical and Computer Engineering] \n
+[https://www.usc.edu/ University of Southern California] \n
+Contact: yangcai \[AT\] usc \[dot\] edu, Office: EEB 535
+~~~
+
+== Short Bio
+
+I am currently a 4th year Ph.D. student in the Department of Electrical Engineering, University of Southern California, supervised by Prof. [https://viterbi.usc.edu/directory/faculty/Molisch/Andreas Andreas F. Molisch]. Previous to this, I have earned my B.E. and M.S. degree from the Department of Electronic Engineering, Tsinghua University.
+
+== News
+
+- \[04-22-2022\] Our paper ``Compute- and data-intensive networks: The key to the Metaverse'' is accepted to Proc. IEEE Int. Conf. 6G Netw. (6GNet), 2022.
+
+== Education
+
+- M.S., School of Electrical and Computer Engineering, Tsinghua University, Beijing, China, Jul. 2015 - Jul. 2018
+- B.E., College of Information Engineering, Tsinghua University, Beijing, China, Aug. 2011 - Jul. 2015
+
+== Research Interests
+
+My current research interests include next-generation network (cloud, mobile edge computing, fog computing, etc.) control, especially in the intersection of 3C (computing, caching, and communication), stochastic network control and optimization. I also built expertise on multi-agent (cooperative) network localization, navigation and control from my previous research.
+
+- Cloud/edge/fog computing 
+- Caching
+- Network Science
