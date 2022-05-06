@@ -12,6 +12,12 @@ Decentralized control of distributed cloud networks with generalized network flo
 [https://yangcai2022.github.io/BibTex/cai2022multicast.bib cite]\] \n
 _Y. Cai_, J. Llorca, A. M. Tulino, and A. F. Molisch, submitted to /IEEE Trans. Commun./.
 
+. 
+Joint compute-caching-communication control for online data-intensive service delivery
+\[[https://arxiv.org/abs/2205.01944 arXiv],
+[https://yangcai2022.github.io/BibTex/cai2022CCC.bib cite]\] \n
+_Y. Cai_, J. Llorca, A. M. Tulino, and A. F. Molisch.
+
 == Book Chapters
 
 . 
@@ -22,7 +28,8 @@ Y. Wang, _Y. Cai_, and Y. Shen, in /Positioning and Navigation in Complex Enviro
 
 . 
 Ultra-reliable distributed cloud network control with end-to-end latency constraints
-\[[https://yangcai2022.github.io/BibTex/cai2022delay.bib cite]\] \n
+\[[https://arxiv.org/abs/2205.02427 arXiv],
+[https://yangcai2022.github.io/BibTex/cai2022delay.bib cite]\] \n
 _Y. Cai_, J. Llorca, A. M. Tulino, and A. F. Molisch, /IEEE\/ACM Trans. Netw./, vol. 1, no. 99, pp. 1-16, 2022.
 . 
 [https://ieeexplore.ieee.org/abstract/document/8636259
