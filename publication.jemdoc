@@ -7,16 +7,21 @@ The full list of my publications can be found in
 == Under Review
 
 . 
+Dynamic control of data-intensive services over edge computing networks
+\[[https://arxiv.org/abs/2205.14735 arXiv],
+[https://yangcai2022.github.io/BibTex/cai2022xpipelines.bib cite]\] \n
+_Y. Cai_, J. Llorca, A. M. Tulino, and A. F. Molisch, submitted to /IEEE GlobeCOM 2022/.
+. 
+Joint compute-caching-communication control for online data-intensive service delivery
+\[[https://arxiv.org/abs/2205.01944 arXiv],
+[https://yangcai2022.github.io/BibTex/cai2022CCC.bib cite]\] \n
+_Y. Cai_, J. Llorca, A. M. Tulino, and A. F. Molisch, submitted to /IEEE Trans. Mobile Computing/.
+. 
 Decentralized control of distributed cloud networks with generalized network flows
 \[[https://arxiv.org/abs/2204.09030 arXiv],
 [https://yangcai2022.github.io/BibTex/cai2022multicast.bib cite]\] \n
 _Y. Cai_, J. Llorca, A. M. Tulino, and A. F. Molisch, submitted to /IEEE Trans. Commun./.
 
-. 
-Joint compute-caching-communication control for online data-intensive service delivery
-\[[https://arxiv.org/abs/2205.01944 arXiv],
-[https://yangcai2022.github.io/BibTex/cai2022CCC.bib cite]\] \n
-_Y. Cai_, J. Llorca, A. M. Tulino, and A. F. Molisch.
 
 == Book Chapters
 
